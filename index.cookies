@@ -1,42 +1,113 @@
 [
-{
-    "domain": ".daniel-studios.github.io",
+  {
+    "domain": ".scratch.mit.edu",
     "hostOnly": false,
     "httpOnly": false,
-    "name": "github.com",
-    "path": "/Working-Coin-Clicker-2.0",
-    "sameSite": "no_restriction",
-    "secure": true,
+    "name": "__utmc",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
     "session": true,
     "storeId": "0",
-    "value": "[github.com]",
-    "id": 1
-},
-{
-    "domain": ".daniel-studios.github.io",
-    "expirationDate": 1586567179,
+    "value": "133675020",
+    "origin": "https://scratch.mit.edu"
+  },
+  {
+    "domain": ".scratch.mit.edu",
+    "expirationDate": 1602297226,
     "hostOnly": false,
     "httpOnly": false,
-    "name": "github.com",
+    "name": "__utmz",
     "path": "/",
     "sameSite": "unspecified",
     "secure": false,
     "session": false,
     "storeId": "0",
-    "value": "",
-    "id": 2
-},
-{
-    "domain": "daniel-studios.github.io",
-    "hostOnly": true,
+    "value": "133675020.1586456729.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)",
+    "origin": "https://scratch.mit.edu"
+  },
+  {
+    "domain": ".scratch.mit.edu",
+    "expirationDate": 1649607318,
+    "hostOnly": false,
     "httpOnly": false,
-    "name": "github.com",
-    "path": "/Working-Coin-Clicker-2.0",
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GA1.3.30153997.1586456729",
+    "origin": "https://scratch.mit.edu"
+  },
+  {
+    "domain": ".scratch.mit.edu",
+    "expirationDate": 1586621718,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GA1.3.367203885.1586456755",
+    "origin": "https://scratch.mit.edu"
+  },
+  {
+    "domain": ".scratch.mit.edu",
+    "expirationDate": 1617984854.143025,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "scratchcsrftoken",
+    "path": "/",
     "sameSite": "unspecified",
     "secure": true,
-    "session": true,
+    "session": false,
     "storeId": "0",
-    "value": "[github.com]",
-    "id": 3
-}
+    "value": "VHMhLe33j7Llae9AQt4CxoLvNuOQRuwT",
+    "origin": "https://scratch.mit.edu"
+  },
+  {
+    "domain": ".scratch.mit.edu",
+    "expirationDate": 1587667068.306756,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "scratchsessionsid",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "\".eJxVj81qwzAQhN9F58RYsmRLOfaHkhwCaQ89il1pFYu4coiVlFD67pWLLzksLDPfDrM_7DrRJcEXsQ17gRRpsB99vNFwt6IWNVsxC9fc2xmz0RdKGa46qdtHC8GdKM3-rFHK0UGOY6oWY6re6Tws4tMCr1geyzKHBjQQCBtVk_RCG_TlsNNGttwopzf4HWikNufm2dwP-HY8bS_rz_S63x1KzDAeY1rHc0nijayE0P_DOX9s2cPUFyYoyR0E3UgPUmCQHDwGpVTQ2reETkBXQ_n-9w8L-1xB:1jMc3g:Fse2C7ztMy8GpSosKnLkp6cDWBE\"",
+    "origin": "https://scratch.mit.edu"
+  },
+  {
+    "domain": "scratch.mit.edu",
+    "expirationDate": 1618071318,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "permissions",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "%7B%22admin%22%3Afalse%2C%22scratcher%22%3Afalse%2C%22new_scratcher%22%3Atrue%2C%22social%22%3Atrue%2C%22educator%22%3Afalse%2C%22educator_invitee%22%3Afalse%2C%22student%22%3Afalse%7D",
+    "origin": "https://scratch.mit.edu"
+  },
+  {
+    "domain": ".scratch.mit.edu",
+    "expirationDate": 1649601226,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "__utma",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "133675020.30153997.1586456729.1586525830.1586529226.10",
+    "origin": "https://scratch.mit.edu"
+  }
 ]
