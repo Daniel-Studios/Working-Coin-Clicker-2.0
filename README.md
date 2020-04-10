@@ -4,4 +4,4 @@ Instructions/Guide:
 - Click the "SPEAKER" to mute and unmute the music.
 - Click "SHOP" to open the shop.
 - Click "CLOSE" to close the shop.
-- YOU CAN FIGURE IT OUT AND STUFF!.
+- PRESS S TO SAVE AND L TO LOAD & C TO CLOSE
