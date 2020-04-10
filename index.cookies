@@ -1,0 +1,26 @@
+[
+    {
+        "domain": ".daniel-studios.github.io",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "github.com",
+        "path": "/Working-Coin-Clicker-2.0",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "[github.com]"
+    },
+    {
+        "domain": "daniel-studios.github.io",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "github.com",
+        "path": "/Working-Coin-Clicker-2.0",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "[github.com]"
+    }
+]
