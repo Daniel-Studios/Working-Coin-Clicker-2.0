@@ -1,26 +1,42 @@
 [
-    {
-        "domain": ".daniel-studios.github.io",
-        "hostOnly": false,
-        "httpOnly": false,
-        "name": "github.com",
-        "path": "/Working-Coin-Clicker-2.0",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "[github.com]"
-    },
-    {
-        "domain": "daniel-studios.github.io",
-        "hostOnly": true,
-        "httpOnly": false,
-        "name": "github.com",
-        "path": "/Working-Coin-Clicker-2.0",
-        "sameSite": "no_restriction",
-        "secure": true,
-        "session": true,
-        "storeId": null,
-        "value": "[github.com]"
-    }
+{
+    "domain": ".daniel-studios.github.io",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "github.com",
+    "path": "/Working-Coin-Clicker-2.0",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "[github.com]",
+    "id": 1
+},
+{
+    "domain": ".daniel-studios.github.io",
+    "expirationDate": 1586567179,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "github.com",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "",
+    "id": 2
+},
+{
+    "domain": "daniel-studios.github.io",
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "github.com",
+    "path": "/Working-Coin-Clicker-2.0",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "[github.com]",
+    "id": 3
+}
 ]
